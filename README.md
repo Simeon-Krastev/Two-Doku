@@ -1,7 +1,7 @@
 # Two-Doku
-A version of a Sudoku-based game based on an idea by [Christopher F. Clark](https://www.linkedin.com/in/christopherfclark)
+A java implementation of a Sudoku-based game based on an idea by [Christopher F. Clark](https://www.linkedin.com/in/christopherfclark)
 
-Game Premise:
+## Game Premise
 
 The basic idea of the game is that there are two players (red and blue) and an empty Sudoku board with “dominos” that have one digit on them with the numbers 1 to 9. Because there are 81 squares on the board (9x9), there are 90 dominoes (10x9)—that way, at the end, there are at least 9 dominoes (1-9) that can’t be placed.
 
